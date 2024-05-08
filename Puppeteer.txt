@@ -1,0 +1,9 @@
+It is a Node.js Library that provides a high level API for controlling and automating web browsers.
+
+It is developed by chorme team and can be used for task such as scraping, automation testing, and generating screenshot and PDF's of web pages.
+
+support wide range of browser for automation features, including navigating pages, interacting with elements, filling forms, clicking buttons, and handling events.
+
+It support both headless and headful execution, giving you both the option to run tests and automation scripts in headless mode or see the browser GUI for debugging purposes.
+
+It is integrated with popular testing frameworks like Jest or Mocha, making it valuable for end to end testing.
